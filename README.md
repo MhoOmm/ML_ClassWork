@@ -31,13 +31,21 @@ The repository covers the following Machine Learning topics:
 
 ## 📁 Repository Structure
 
+
 ```
+├── 📁 AgglomerativeHClustering
+│   ├── 📄 first.ipynb
+│   └── 📄 hierarchical-clustering-with-python-and-scikit-learn-shopping-data.csv
 ├── 📁 AllClassification
 │   ├── 📄 biascomp.ipynb
 │   ├── 📄 comp.ipynb
 │   └── 📄 iris.csv
 ├── 📁 AllRegression
 │   └── 📄 comparison.ipynb
+├── 📁 BackPropagationEg
+│   ├── 📄 CustomerChurn.ipynb
+│   ├── 📄 GradAdmission-Regression.ipynb
+│   └── 📄 Mnist-DigitClassifcation.ipynb
 ├── 📁 D-1_EmployeeData
 │   ├── 📄 employees.csv
 │   └── 📄 frist.ipynb
@@ -57,14 +65,29 @@ The repository covers the following Machine Learning topics:
 │       ├── 🎵 file.flac
 │       ├── 📄 first.ipynb
 │       └── 🎵 mos.wav
+├── 📁 DBSCAN
+│   └── 📄 first.ipynb
 ├── 📁 DecisionTrees
 │   ├── 📄 first.ipynb
 │   └── 📄 iris.csv
+├── 📁 K_Means_Clustering
+│   ├── 📄 3_d_Data.ipynb
+│   ├── 📄 fromscratch.ipynb
+│   ├── 📄 sklearn.ipynb
+│   └── 📄 student_clustering.csv
 ├── 📁 Knn
 │   ├── 📄 iris.csv
 │   └── 📄 knniris.ipynb
 ├── 📁 LogisticRegression
 │   └── 📄 first.ipynb
+├── 📁 Perceptron
+│   ├── 📁 PerceptronLossFunction
+│   │   └── 📄 gd.ipynb
+│   ├── 📁 PerceptronTrick
+│   │   └── 📄 first.ipynb
+│   └── 📁 baseTrain
+│       ├── 📄 basicTraining.ipynb
+│       └── 📄 placement.csv
 ├── 📁 Regression
 │   ├── 📄 gdRegressor.ipynb
 │   ├── 📄 multiple.ipynb
